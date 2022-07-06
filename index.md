@@ -1,26 +1,30 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Penguin University | Hospitality Department</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
- </head>
- 
-
-<section class="footer">
-
-            <div class="box">
-                <h1>Follow US</h1>
-                <a href="#"> <i class="fab fa-facebook-f"></i> facebook </a>
-                <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
-                <a href="#"> <i class="fab fa-linkedin"></i> linkedin </a>
-                <a href="#"> <i class="fab fa-instagram"></i> instagram </a>
-                <a href="https://www.youtube.com"> <i class="fab fa-youtube"></i> youtube </a>
-            </div>
-
-        </div>
-
-        <div class="credit"> created by Penguin University | Hospitality Department </div>
-
-    </section>
-</html>
+article {
+ margin-left: 170px;
+ border-left: 1px solid gray;
+ padding: 1em;
+ overflow: hidden;
+}
+</style>
+</head>
+<body>
+<div class="container">
+<header>
+ <h1>City Gallery</h1>
+</header>
+ <nav>
+ <ul>
+ <li><a href="#">About US</a></li>
+ <li><a href="#">Scholarships</a></li>
+ <li><a href="#">Contact US</a></li>
+ </ul>
+</nav>
+<article>
+ <h1>About US</h1>
+ <p>UNICAF is the leading online platform offering affordable, quality higher education to underserved markets, in collaboration with reputable universities in the UK, US, 
+Europe and Africa.</p>
+ <p>UNICAF partners with universities in the UK, the US, Europe and Africa to offer online, quality undergraduate and post graduate degrees, to the benefit of thousands 
+of students in Africa and other continents.</p>
+</article>
+<footer>Copyright &copy; Unicaf.org</footer>
+</div>
+</body></html>
