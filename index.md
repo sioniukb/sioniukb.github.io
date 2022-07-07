@@ -1,3 +1,4 @@
+<style>
 article {
  margin-left: 170px;
  border-left: 1px solid gray;
