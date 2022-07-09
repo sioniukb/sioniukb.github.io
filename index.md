@@ -39,7 +39,7 @@
 <iframe width="420" height="345" src="https://www.youtube.com/embed/ijmgS6L6bt4">
 </iframe>
  
-  <div id="slideshow">
+<div id="slideshow">
       <div class="slide-wrapper">
         <div class="slide"><h1 class="slide-number">Welcome to Penguin University</h1></div>
         <div class="slide"><h1 class="slide-number">High Quality Education</h1></div>
