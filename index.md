@@ -13,9 +13,10 @@
 <body>
 <div class="container">
 <header>
-  <img class="samller-image" src="images/logo.png" alt="">
+  <img class="smaller-image" src="images/logo.png" alt="">
  <h1>Penguin University - Department of Hospitality </h1>
 </header>
+ 
  <nav>
  <ul>
  <li><a href="#">About US</a></li>
