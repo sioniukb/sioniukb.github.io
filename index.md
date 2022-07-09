@@ -59,8 +59,7 @@
                 <a href="https://www.youtube.com"> <i class="fab fa-youtube"></i> youtube </a>
  </footer>
  <h4> Copyright &copy; Penguin University/ Department of Hospitality </h4>
+ 
  </div>
 
- </body>
-
- </html>
+ </body></html>
