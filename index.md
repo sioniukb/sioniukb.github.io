@@ -41,10 +41,10 @@
  
 <div id="slideshow">
       <div class="slide-wrapper">
-        <div class="slide"><h1 class="slide-number">Welcome to Penguin University</h1></div>
-        <div class="slide"><h1 class="slide-number">High Quality Education</h1></div>
-        <div class="slide"><h1 class="slide-number">Full Scholarship</h1></div>
-        <div class="slide"><h1 class="slide-number">Top Study Facilities</h1></div>
+        <div class="slide"><h3 class="slide-number">Welcome to Penguin University</h3></div>
+        <div class="slide"><h3 class="slide-number">High Quality Education</h3></div>
+        <div class="slide"><h3 class="slide-number">Full Scholarship</h3></div>
+        <div class="slide"><h3 class="slide-number">Top Study Facilities</h3></div>
       </div>
  </div>
 
