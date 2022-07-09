@@ -12,7 +12,7 @@ article {
 <body>
 <div class="container">
 <header>
- <h1>City Gallery</h1>
+ <h1>Penguin University - Department of Hospitality </h1>
 </header>
  <nav>
  <ul>
