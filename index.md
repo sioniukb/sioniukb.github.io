@@ -59,5 +59,7 @@
  </footer>
  <h4> Copyright &copy; Penguin University/ Department of Hospitality </h4>
  </div>
-</body>
-</html>
+
+ </body>
+
+ </html>
