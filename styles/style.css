@@ -37,20 +37,20 @@ article {
 
 #slideshow {
       overflow: hidden;
-      height: 300px;
-      width: 300px;
+      height: 100px;
+      width: 100px;
       margin: 0 auto;
     }
 
     .slide-wrapper {
-      width: 1500px;
+      width: 1000px;
       -webkit-animation: slide 10s ease infinite;
     }
 
     .slide {
       float: left;
-      height: 300px;
-      width: 300px;
+      height: 100px;
+      width: 100px;
     }
 
     .slide:nth-child(1) {
