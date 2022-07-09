@@ -1,6 +1,13 @@
-<html>
+<html lang="en">
+ 
 <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hospitality Department/Penguin University | HOME</title>
+    <link rel="shortcut icon" type="images" href="images/logo.png">
+ 
 <style>
+ 
 div.container {
  width: 100%;
  border: 1px solid red;
@@ -32,8 +39,11 @@ article {
  padding: 1em;
  overflow: hidden;
 }
-</style>
+
+ </style>
+ 
 </head>
+ 
 <body>
 <div class="container">
 <header>
