@@ -39,6 +39,16 @@
 <iframe width="420" height="345" src="https://www.youtube.com/embed/ijmgS6L6bt4">
 </iframe>
  
+  <div id="slideshow">
+      <div class="slide-wrapper">
+        <div class="slide"><h1 class="slide-number">Welcome to Penguin University</h1></div>
+        <div class="slide"><h1 class="slide-number">High Quality Education</h1></div>
+        <div class="slide"><h1 class="slide-number">Full Scholarship</h1></div>
+        <div class="slide"><h1 class="slide-number">Top Study Facilities</h1></div>
+
+      </div>
+    </div>
+ 
 <footer> 
  <h3>Follow US</h3>
                 <a href="#"> <i class="fab fa-facebook-f"></i> facebook </a>
