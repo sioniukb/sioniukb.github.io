@@ -17,7 +17,9 @@ article {
  <nav>
  <ul>
  <li><a href="#">About US</a></li>
- <li><a href="#">Scholarships</a></li>
+ <li><a href="#">Admission</a></li>
+ <li><a href="#">Programs</a></li>
+ <li><a href="#">News</a></li>
  <li><a href="#">Contact US</a></li>
  </ul>
 </nav>
@@ -28,6 +30,6 @@ Europe and Africa.</p>
  <p>UNICAF partners with universities in the UK, the US, Europe and Africa to offer online, quality undergraduate and post graduate degrees, to the benefit of thousands 
 of students in Africa and other continents.</p>
 </article>
-<footer>Copyright &copy; Unicaf.org</footer>
+<footer>Copyright &copy; Penguin University/ Department of Hospitality</footer>
 </div>
 </body></html>
