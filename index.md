@@ -52,11 +52,11 @@
  
 <footer> 
  <h3>Follow US</h3>
-                <a href="https://www.facebook.com"> <i class="fab fa-facebook-f"></i> facebook </a>
-                <a href="https://www.twitter.com"> <i class="fab fa-twitter"></i> twitter </a>
-                <a href="https://www.linkedin.com"> <i class="fab fa-linkedin"></i> linkedin </a>
-                <a href="https://www.instagram.com"> <i class="fab fa-instagram"></i> instagram </a>
-                <a href="https://www.youtube.com"> <i class="fab fa-youtube"></i> youtube </a>
+                <a href="https://www.facebook.com"> <i class="fab fa-facebook-f"></i> Facebook </a>
+                <a href="https://www.twitter.com"> <i class="fab fa-twitter"></i> Twitter </a>
+                <a href="https://www.linkedin.com"> <i class="fab fa-linkedin"></i> Linkedin </a>
+                <a href="https://www.instagram.com"> <i class="fab fa-instagram"></i> Instagram </a>
+                <a href="https://www.youtube.com"> <i class="fab fa-youtube"></i> Youtube </a>
  </footer>
  
  <h4> Copyright &copy; Penguin University/ Department of Hospitality </h4>
