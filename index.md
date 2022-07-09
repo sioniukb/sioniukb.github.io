@@ -47,7 +47,6 @@
         <div class="slide"><h1 class="slide-number">Top Study Facilities</h1></div>
 
      
-    </div>
  
 <footer> 
  <h3>Follow US</h3>
