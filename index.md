@@ -39,7 +39,7 @@
                 <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
                 <a href="#"> <i class="fab fa-linkedin"></i> linkedin </a>
                 <a href="#"> <i class="fab fa-instagram"></i> instagram </a>
-                <a href="https://www.youtube.com/channel/UCXxTe5lB_fjn1H5azGBgWDw"> <i class="fab fa-youtube"></i> youtube </a>
+                <a href="https://www.youtube.com"> <i class="fab fa-youtube"></i> youtube </a>
  Copyright &copy; Penguin University/ Department of Hospitality
  </footer>
 
