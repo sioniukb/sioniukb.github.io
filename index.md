@@ -11,6 +11,7 @@
 </head>
  
 <body>
+ 
 <div class="container">
 <header>
   <img class="smaller-image" src="images/logo.png" alt="">
@@ -27,10 +28,20 @@
  </ul>
 </nav>
 <article>
- <h1>About US</h1>
+ <h2>About US</h2>
  <p>Penguin University is the leading higher educational institution offering affordable and quality programs to students all over the world. </p>
  <p>Department of Hospitality offering high quality undergraduate and post graduate degrees in the field of hospitality and busines management. </p>.
 </article>
-<footer>Copyright &copy; Penguin University/ Department of Hospitality</footer>
-</div>
+ 
+<footer> 
+ <h3>Follow US</h3>
+                <a href="#"> <i class="fab fa-facebook-f"></i> facebook </a>
+                <a href="#"> <i class="fab fa-twitter"></i> twitter </a>
+                <a href="#"> <i class="fab fa-linkedin"></i> linkedin </a>
+                <a href="#"> <i class="fab fa-instagram"></i> instagram </a>
+                <a href="https://www.youtube.com/channel/UCXxTe5lB_fjn1H5azGBgWDw"> <i class="fab fa-youtube"></i> youtube </a>
+ Copyright &copy; Penguin University/ Department of Hospitality
+ </footer>
+
+ </div>
 </body></html>
