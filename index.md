@@ -43,8 +43,8 @@
                 <a href="#"> <i class="fab fa-linkedin"></i> linkedin </a>
                 <a href="#"> <i class="fab fa-instagram"></i> instagram </a>
                 <a href="https://www.youtube.com"> <i class="fab fa-youtube"></i> youtube </a>
- <h4> Copyright &copy; Penguin University/ Department of Hospitality </h4>
  </footer>
-
+ <h4> Copyright &copy; Penguin University/ Department of Hospitality </h4>
  </div>
-</body></html>
+</body>
+</html>
