@@ -6,6 +6,8 @@
   <title>Hospitality Department/Penguin University | HOME</title>
     <link rel="shortcut icon" type="images" href="images/logo.png">
  
+ <!-- custom css file link  -->
+    <link rel="stylesheet" href="styles/style.css">
 </head>
  
 <body>
