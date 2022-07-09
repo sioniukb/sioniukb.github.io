@@ -45,6 +45,8 @@
         <div class="slide"><h1 class="slide-number">High Quality Education</h1></div>
         <div class="slide"><h1 class="slide-number">Full Scholarship</h1></div>
         <div class="slide"><h1 class="slide-number">Top Study Facilities</h1></div>
+      </div>
+ </div>
 
      
  
