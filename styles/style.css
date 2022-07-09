@@ -37,8 +37,8 @@ article {
 
 #slideshow {
       overflow: hidden;
-      height: 510px;
-      width: 728px;
+      height: 300px;
+      width: 300px;
       margin: 0 auto;
     }
 
@@ -49,8 +49,8 @@ article {
 
     .slide {
       float: left;
-      height: 510px;
-      width: 728px;
+      height: 300px;
+      width: 300px;
     }
 
     .slide:nth-child(1) {
