@@ -27,7 +27,7 @@
  <li><a href="#">Admission</a></li>
  <li><a href="#">Programs</a></li>
  <li><a href="#">News</a></li>
- <li><a href="#">Contact US</a></li>
+ <li><a href="#">Contact Us</a></li>
  </ul>
 </nav>
 <article>
