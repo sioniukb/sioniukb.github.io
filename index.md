@@ -50,9 +50,9 @@
                 <a href="https://www.linkedin.com"> <i class="fab fa-linkedin"></i> Linkedin </a>
                 <a href="https://www.instagram.com"> <i class="fab fa-instagram"></i> Instagram </a>
                 <a href="https://www.youtube.com"> <i class="fab fa-youtube"></i> Youtube </a>
- </footer>
- 
+
  <h4> Copyright &copy; Penguin University/ Department of Hospitality </h4>
+  </footer>
  
  </div>
  </body></html>
