@@ -32,7 +32,7 @@
 </nav>
 <article>
  <h2>About US</h2>
- <p>Penguin University is the leading higher educational institution offering affordable and quality programs to students all over the world. </p>
+ <p>Penguin University is a leading higher educational institution offering affordable and quality programs to students all over the world. </p>
  <p>Department of Hospitality offers high quality undergraduate and post graduate degrees in the field of hospitality and busines management. </p>
 </article>
  
