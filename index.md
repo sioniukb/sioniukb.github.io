@@ -23,7 +23,7 @@
  
  <nav>
  <ul>
- <li><a href="#">About US</a></li>
+ <li><a href="#">About Us</a></li>
  <li><a href="#">Admission</a></li>
  <li><a href="#">Programs</a></li>
  <li><a href="#">News</a></li>
@@ -44,7 +44,7 @@
      
  
 <footer> 
- <h3>Follow US</h3>
+ <h3>Follow Us</h3>
                 <a href="https://www.facebook.com"> <i class="fab fa-facebook-f"></i> Facebook </a>
                 <a href="https://www.twitter.com"> <i class="fab fa-twitter"></i> Twitter </a>
                 <a href="https://www.linkedin.com"> <i class="fab fa-linkedin"></i> Linkedin </a>
