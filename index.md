@@ -41,9 +41,11 @@
  </iframe>
 </article>
 
- 
+ <article>
+  <h2>Welcome to Hospitality Management</h2>
   <div class="slider">
   </div>
+ </article>
      
  
 <footer> 
