@@ -36,8 +36,11 @@
  <p>Department of Hospitality offers high quality undergraduate and post graduate degrees in the field of hospitality and busines management. </p>
 </article>
  
-<iframe width="420" height="345" src="https://www.youtube.com/embed/ijmgS6L6bt4">
-</iframe>
+<article>
+ <iframe width="420" height="345" src="https://www.youtube.com/embed/ijmgS6L6bt4">
+ </iframe>
+</article>
+
  
   <div class="slider">
   </div>
