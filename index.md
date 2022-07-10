@@ -37,7 +37,7 @@
 </article>
  
 <article>
- <iframe width="700" height="400" src="https://www.youtube.com/embed/ijmgS6L6bt4">
+ <iframe width="720" height="400" src="https://www.youtube.com/embed/ijmgS6L6bt4">
  </iframe>
 </article>
 
