@@ -38,6 +38,7 @@
  
 <iframe width="420" height="345" src="https://www.youtube.com/embed/ijmgS6L6bt4">
 </iframe>
+ <div id="iframe_block"><iframe src="www.youtube.com/embed/ijmgS6L6bt4"></iframe></div>  
  
   <div class="slider">
   </div>
