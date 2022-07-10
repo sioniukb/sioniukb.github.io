@@ -36,7 +36,7 @@ article {
 
 .slider{
  width: 700px;
- height: 300px;
+ height: 260px;
  background: url(../images/hospitality1.png);
  margin: 100px auto;
  animation: slide 20s infinite;
