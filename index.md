@@ -37,12 +37,13 @@
 </article>
  
 <article>
+ <h2>Introduction to Hospitality Industry</h2>
  <iframe width="720" height="400" src="https://www.youtube.com/embed/ijmgS6L6bt4">
  </iframe>
 </article>
 
  <article>
-  <h2>Welcome to Hospitality Management</h2>
+  <h2>Welcome to Hospitality Department</h2>
   <div class="slider">
   </div>
  </article>
