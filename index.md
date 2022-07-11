@@ -40,6 +40,9 @@
   <input type="submit" value="Submit">
 </form>
   
+<img class="heart" src="images/heart.jpg" alt="">
+<div class="heart"></div>
+  
 </nav>
  
 <article>
