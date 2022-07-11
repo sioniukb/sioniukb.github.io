@@ -44,10 +44,13 @@
 <img class="heart" src="images/heart.jpg" alt="">
   
   <h4> Department Library </h4>
-<img class="heart" src="images/library.png" alt="">
+<img class="library" src="images/library.png" alt="">
 
   <h4> Student Club </h4>
-<img class="heart" src="images/student.jpg" alt="">
+<img class="student" src="images/student.jpg" alt="">
+ 
+  <h4> Industry Support </h4>
+<img class="support" src="images/suppot.jpg" alt="">
   
 </nav>
  
