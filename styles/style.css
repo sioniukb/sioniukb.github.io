@@ -4,7 +4,7 @@ div.container {
 }
 header, footer {
  padding: 1em;
- color: black;
+ color: dark gray;
  background-color: pink;
  clear: left;
  text-align: center;
