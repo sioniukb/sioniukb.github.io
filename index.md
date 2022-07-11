@@ -29,7 +29,19 @@
  <li><a href="#">News</a></li>
  <li><a href="#">Contact Us</a></li>
  </ul>
+  
+  <h4>online campus</h4>
+
+<form action="/action_page.php">
+  <label for="uname">username:</label><br>
+  <input style="height:30px; width:150px" type="text" id="uname" name="uname" value=" "><br>
+  <label for="password">password:</label><br>
+  <input style="height:30px; width:150px" type="text" id="password" name="password" value=" "><br><br>
+  <input type="submit" value="Submit">
+</form>
+  
 </nav>
+ 
 <article>
  <h2>About US</h2>
  <p>Penguin University is a leading higher educational institution offering affordable and quality programs to students all over the world. </p>
