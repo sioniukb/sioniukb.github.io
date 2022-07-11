@@ -23,6 +23,7 @@
  
  <nav>
  <ul>
+ <li><a href="#">Home</a></li>
  <li><a href="#">About Us</a></li>
  <li><a href="#">Admission</a></li>
  <li><a href="#">Programs</a></li>
@@ -50,7 +51,7 @@
 <img class="student" src="images/student.jpg" alt="">
  
   <h4> Industry Support </h4>
-<img class="support" src="images/suppot.jpg" alt="">
+<img class="support" src="images/support.jpg" alt="">
   
 </nav>
  
