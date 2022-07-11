@@ -40,7 +40,7 @@
   <input type="submit" value="Submit">
 </form>
   
-  <h4> Donation </h4>
+  <h4> Hospitality Donation </h4>
 <img class="heart" src="images/heart.jpg" alt="">
   
 <img class="heart" src="images/library.png" alt="">
