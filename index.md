@@ -53,7 +53,7 @@
   <h4> Industry Support </h4>
 <img class="support" src="images/support.jpg" alt="">
   
-   <h4> Contact us: A Street. Hospitality Building 5555 Greece </h4>
+   <h4> Contact us:    A Street. Hospitality Building 5555 Greece </h4>
   
 </nav>
  
