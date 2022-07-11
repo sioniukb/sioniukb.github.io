@@ -40,8 +40,9 @@
   <input type="submit" value="Submit">
 </form>
   
+  <h4> Donation </h4>
 <img class="heart" src="images/heart.jpg" alt="">
-<div class="heart"></div>
+
   
 </nav>
  
