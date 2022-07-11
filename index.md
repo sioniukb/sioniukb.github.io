@@ -53,10 +53,7 @@
   <h4> Industry Support </h4>
 <img class="support" src="images/support.jpg" alt="">
   
-   <h4> Contact us: 
-    NY Street
-    Hospitality Bldg 
-    5525 Greece </h4>
+   <h4> Contact us: ，<br>NY Street <br>Hospitality Bldg <br>5525 Greece </h4>
   
 </nav>
  
