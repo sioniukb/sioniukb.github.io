@@ -43,8 +43,10 @@
   <h4> Hospitality Donation </h4>
 <img class="heart" src="images/heart.jpg" alt="">
   
+  <h4> Department Library </h4>
 <img class="heart" src="images/library.png" alt="">
 
+  <h4> Student Club </h4>
 <img class="heart" src="images/student.jpg" alt="">
   
 </nav>
