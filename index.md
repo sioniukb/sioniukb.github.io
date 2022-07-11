@@ -30,7 +30,7 @@
  <li><a href="#">Contact Us</a></li>
  </ul>
   
-  <h4>online campus</h4>
+  <h4>Online Campus</h4>
 
 <form action="/action_page.php">
   <label for="uname">username:</label><br>
