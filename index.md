@@ -42,7 +42,10 @@
   
   <h4> Donation </h4>
 <img class="heart" src="images/heart.jpg" alt="">
+  
+<img class="heart" src="images/library.png" alt="">
 
+<img class="heart" src="images/student.jpg" alt="">
   
 </nav>
  
