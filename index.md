@@ -11,6 +11,8 @@
  <!-- custom css file link  -->
     <link rel="stylesheet" href="styles/style.css">
  
+ <link href="https://fonts.googleapis.com/css?family=lobster" rel="stylesheet" type="text/css">
+ 
 </head>
  
 <body>
