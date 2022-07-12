@@ -6,8 +6,7 @@
   <title>Hospitality Department/Penguin University | HOME</title>
     <link rel="shortcut icon" type="images" href="images/logo.png">
  
-  <!-- font link  -->
-     <link href="https://fonts.googleapis.com/css?family=lobster" rel="stylesheet" type="text/css">
+ 
  <!-- custom css file link  -->
     <link rel="stylesheet" href="styles/style.css">
  
@@ -89,3 +88,5 @@
  
  </div>
  </body></html>
+ <!-- font link  -->
+     <link href="https://fonts.googleapis.com/css?family=lobster" rel="stylesheet" type="text/css">
